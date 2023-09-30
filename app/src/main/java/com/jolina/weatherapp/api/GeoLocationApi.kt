@@ -14,6 +14,9 @@ import retrofit2.http.Query
  *
  * Entering string "SF, CA, USA" will return a successful response but
  * "SF CA USA" will result in an error
+ *
+ * The API key was added to gradle.properties and pushed to the repo in case you wanted to try out
+ * the app, but ideally I wouldn't commit this sensitive information to the repo
  */
 
 interface GeoLocationApi {
