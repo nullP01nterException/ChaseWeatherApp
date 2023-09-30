@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="search_places">Search places (ex: Fresno, CA, USA)</string>
+    <string name="fahrenheit">\u2109</string>
+    <string name="celsius">\u2103</string>
+    <string name="feels_like">Feels like %s\u00B0</string>
+    <string name="high_low">High: %s\u00B0 | Low: %s\u00B0</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Rise: %s</string>
+    <string name="sunset">Set: %s</string>
+    <string name="pressure_unit">%s hPa</string>
+    <string name="humidity_unit">%s%%</string>
+
+    <string name="request_permission_description">Enable location permissions\nto get the weather in your area!</string>
+    <string name="allow_permission">Allow location permission</string>
+
+    <string name="error_message">Oops, something went wrong!\nTry again later.</string>
+</resources>
